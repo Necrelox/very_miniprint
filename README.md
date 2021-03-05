@@ -13,7 +13,7 @@ The fonction name miniprint, he take two arguments :
 
 Flags :
 
-| Name | Type             |
-| ---- | ---------------- |
-| %s   | char *           |
-| %d   | int/long/size_t_ |
+| Name | Type                 |
+| ---- | -------------------- |
+| %s   | char *               |
+| %d   | int / long / size_t_ |
