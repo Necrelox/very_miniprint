@@ -5,7 +5,7 @@
 ## make
 ##
 
-NAME	=	lib
+NAME	=	libprint.a
 
 SRC	= 	$(wildcard *.c) \
 		$(wildcard ./tools/*.c)
